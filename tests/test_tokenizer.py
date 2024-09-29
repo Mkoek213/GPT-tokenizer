@@ -3,7 +3,7 @@ import tiktoken
 import os
 
 from minbpe.basic import BasicTokenizer
-from minbpe.regex import RegexTokenizer
+from minbpe.regex_ import RegexTokenizer
 from minbpe.gpt4 import GPT4Tokenizer
 # -----------------------------------------------------------------------------
 # common test data
